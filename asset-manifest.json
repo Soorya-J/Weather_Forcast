@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/your-Weather_Forcast/static/css/main.7bc8884b.css",
+    "main.js": "/your-Weather_Forcast/static/js/main.da594ba9.js",
+    "static/js/453.b262bc2e.chunk.js": "/your-Weather_Forcast/static/js/453.b262bc2e.chunk.js",
+    "static/media/day-with-snow.png": "/your-Weather_Forcast/static/media/day-with-snow.c5743a9776ff62fb4c73.png",
+    "static/media/day-with-rain_tunder.png": "/your-Weather_Forcast/static/media/day-with-rain_tunder.9ee3e864955f971cb0de.png",
+    "static/media/day-with-rain_two.png": "/your-Weather_Forcast/static/media/day-with-rain_two.b4b1937081d0233f02dc.png",
+    "static/media/weer-icoon-dag.png": "/your-Weather_Forcast/static/media/weer-icoon-dag.f590b14fb4c86689af4d.png",
+    "static/media/day-with-rain.png": "/your-Weather_Forcast/static/media/day-with-rain.53a2400b51fa75718cc3.png",
+    "static/media/04n.png": "/your-Weather_Forcast/static/media/04n.39075abbd549092bb042.png",
+    "static/media/03n.png": "/your-Weather_Forcast/static/media/03n.ee2915735c6b1f96341e.png",
+    "static/media/09n.png": "/your-Weather_Forcast/static/media/09n.be165410c5c82627d10a.png",
+    "static/media/yellow-sun-with-rays.png": "/your-Weather_Forcast/static/media/yellow-sun-with-rays.a86a8234030fadef9602.png",
+    "static/media/13n.png": "/your-Weather_Forcast/static/media/13n.c76f0608dc2bea538d84.png",
+    "static/media/11n.png": "/your-Weather_Forcast/static/media/11n.0ec4346fc9f8200b7f88.png",
+    "static/media/01n.png": "/your-Weather_Forcast/static/media/01n.56b8c4279173a61a9ca2.png",
+    "static/media/10n.png": "/your-Weather_Forcast/static/media/10n.b3fc226cfc6f934edba9.png",
+    "static/media/cloud.png": "/your-Weather_Forcast/static/media/cloud.1457bb05edd2cdc42a0c.png",
+    "index.html": "/your-Weather_Forcast/index.html",
+    "main.7bc8884b.css.map": "/your-Weather_Forcast/static/css/main.7bc8884b.css.map",
+    "main.da594ba9.js.map": "/your-Weather_Forcast/static/js/main.da594ba9.js.map",
+    "453.b262bc2e.chunk.js.map": "/your-Weather_Forcast/static/js/453.b262bc2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc8884b.css",
+    "static/js/main.da594ba9.js"
+  ]
+}
